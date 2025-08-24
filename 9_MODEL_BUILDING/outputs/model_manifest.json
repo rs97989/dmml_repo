@@ -1,0 +1,8 @@
+{
+  "saved_at_utc": "2025-08-24T10:24:39.946114Z",
+  "best_model": "rf",
+  "model_file": "F:\\Assignment_DMML\\DMML_REPO\\9_MODEL_BUILDING\\outputs\\best_model.pkl",
+  "metrics_file": "F:\\Assignment_DMML\\DMML_REPO\\9_MODEL_BUILDING\\outputs\\metrics.json",
+  "data_source": "F:\\Assignment_DMML\\DMML_REPO\\6_DATA_TRANSFORMATION_AND_STORAGE\\feature_store.db",
+  "quick_mode": true
+}

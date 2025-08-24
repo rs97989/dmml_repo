@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Assignment_DMML/DMML_REPO/9_MODEL_BUILDING/mlruns/481753586926049376/b44ee28a3859496eb6c3d726eb40eec0/artifacts
+end_time: 1756031125229
+entry_point_name: ''
+experiment_id: '481753586926049376'
+lifecycle_stage: active
+run_id: b44ee28a3859496eb6c3d726eb40eec0
+run_name: best::rf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756031090998
+status: 3
+tags: []
+user_id: Rahul Singh

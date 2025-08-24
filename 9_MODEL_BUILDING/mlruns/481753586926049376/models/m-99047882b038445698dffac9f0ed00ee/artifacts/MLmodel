@@ -1,0 +1,64 @@
+artifact_path: file:///F:/Assignment_DMML/DMML_REPO/9_MODEL_BUILDING/mlruns/481753586926049376/models/m-99047882b038445698dffac9f0ed00ee/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.4
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.3.1
+model_id: m-99047882b038445698dffac9f0ed00ee
+model_size_bytes: 122759829
+model_uuid: m-99047882b038445698dffac9f0ed00ee
+prompts: null
+run_id: b44ee28a3859496eb6c3d726eb40eec0
+signature:
+  inputs: '[{"type": "double", "name": "age", "required": true}, {"type": "double",
+    "name": "average_session_length", "required": true}, {"type": "double", "name":
+    "notifications_clicked", "required": true}, {"type": "double", "name": "num_favorite_artists",
+    "required": true}, {"type": "double", "name": "num_platform_friends", "required":
+    true}, {"type": "double", "name": "num_playlists_created", "required": true},
+    {"type": "double", "name": "num_shared_playlists", "required": true}, {"type":
+    "double", "name": "num_subscription_pauses", "required": true}, {"type": "double",
+    "name": "song_skip_rate", "required": true}, {"type": "double", "name": "weekly_hours",
+    "required": true}, {"type": "double", "name": "weekly_songs_played", "required":
+    true}, {"type": "double", "name": "weekly_unique_songs", "required": true}, {"type":
+    "double", "name": "customer_service_inquiries_high", "required": true}, {"type":
+    "double", "name": "customer_service_inquiries_low", "required": true}, {"type":
+    "double", "name": "customer_service_inquiries_medium", "required": true}, {"type":
+    "double", "name": "location_alabama", "required": true}, {"type": "double", "name":
+    "location_california", "required": true}, {"type": "double", "name": "location_florida",
+    "required": true}, {"type": "double", "name": "location_georgia", "required":
+    true}, {"type": "double", "name": "location_idaho", "required": true}, {"type":
+    "double", "name": "location_maine", "required": true}, {"type": "double", "name":
+    "location_montana", "required": true}, {"type": "double", "name": "location_nebrasksa",
+    "required": true}, {"type": "double", "name": "location_new_jersey", "required":
+    true}, {"type": "double", "name": "location_new_york", "required": true}, {"type":
+    "double", "name": "location_north_carolina", "required": true}, {"type": "double",
+    "name": "location_north_dakota", "required": true}, {"type": "double", "name":
+    "location_south_carolina", "required": true}, {"type": "double", "name": "location_utah",
+    "required": true}, {"type": "double", "name": "location_vermont", "required":
+    true}, {"type": "double", "name": "location_virginia", "required": true}, {"type":
+    "double", "name": "location_washington", "required": true}, {"type": "double",
+    "name": "location_west_virginia", "required": true}, {"type": "double", "name":
+    "location_wisconsin", "required": true}, {"type": "double", "name": "payment_method_apple_pay",
+    "required": true}, {"type": "double", "name": "payment_method_credit_card", "required":
+    true}, {"type": "double", "name": "payment_method_debit_card", "required": true},
+    {"type": "double", "name": "payment_method_paypal", "required": true}, {"type":
+    "double", "name": "payment_plan_monthly", "required": true}, {"type": "double",
+    "name": "payment_plan_yearly", "required": true}, {"type": "double", "name": "subscription_type_family",
+    "required": true}, {"type": "double", "name": "subscription_type_free", "required":
+    true}, {"type": "double", "name": "subscription_type_premium", "required": true},
+    {"type": "double", "name": "subscription_type_student", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-08-24 10:24:54.487189'

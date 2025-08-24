@@ -2,3 +2,4 @@
 2025-08-23T18:36:58.097432Z - success - [{'source': 'kaggle', 'dataset': 'raghunandan9605/streaming-subscription-churn-dataset', 'file': 'staging\\kaggle\\StreamingCustomerChurn_KAGGLE.csv', 'rows': 125000}]
 2025-08-23T18:37:09.257824Z - success - [{'source': 'kaggle', 'dataset': 'raghunandan9605/streaming-subscription-churn-dataset', 'file': 'staging\\kaggle\\StreamingCustomerChurn_KAGGLE.csv', 'rows': 125000}]
 2025-08-23T18:37:14.781252+00:00 - success - {'source': 'local_csv', 'dataset': 'source\\StreamingCustomerChurnFromSource.csv', 'file': 'staging\\source\\StreamingCustomerChurn_SOURCE.csv', 'rows': 10003, 'columns': 20}
+2025-08-24T07:50:43.880088Z - success - [{'source': 'kaggle', 'dataset': 'raghunandan9605/streaming-subscription-churn-dataset', 'file': 'staging\\kaggle\\StreamingCustomerChurn_KAGGLE.csv', 'rows': 125000}]

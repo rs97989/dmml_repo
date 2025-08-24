@@ -1,0 +1,10 @@
+artifact_location: file:///F:/Assignment_DMML/DMML_REPO/9_MODEL_BUILDING/mlruns/481753586926049376/models/m-99047882b038445698dffac9f0ed00ee/artifacts
+creation_timestamp: 1756031094335
+experiment_id: '481753586926049376'
+last_updated_timestamp: 1756031125157
+model_id: m-99047882b038445698dffac9f0ed00ee
+model_type: null
+name: model
+source_run_id: b44ee28a3859496eb6c3d726eb40eec0
+status: 2
+status_message: null
