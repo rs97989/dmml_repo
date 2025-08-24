@@ -1,0 +1,18 @@
+{
+  "db": "F:\\Assignment_DMML\\DMML_REPO\\6_DATA_TRANSFORMATION_AND_STORAGE\\feature_store.db",
+  "groups_created": [
+    {
+      "name": "churn_all",
+      "version": 1,
+      "features": 48
+    },
+    {
+      "name": "churn_v1",
+      "version": 1,
+      "features": 48
+    }
+  ],
+  "primary_key": "customer_id",
+  "label": "churned",
+  "created_at_utc": "2025-08-23T20:39:36.846967Z"
+}

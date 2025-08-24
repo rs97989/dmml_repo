@@ -1,0 +1,13 @@
+{
+  "prepared_at_utc": "2025-08-23T19:59:45.086560Z",
+  "sources": [
+    "kaggle",
+    "source"
+  ],
+  "raw_rows_total": 135003,
+  "clean_rows": 134803,
+  "clean_file": "F:\\Assignment_DMML\\DMML_REPO\\5_DATA_PREPARATION\\outputs\\cleaned_dataset.csv",
+  "model_matrix_parquet": "F:\\Assignment_DMML\\DMML_REPO\\5_DATA_PREPARATION\\outputs\\model_matrix.parquet",
+  "model_matrix_csv": "F:\\Assignment_DMML\\DMML_REPO\\5_DATA_PREPARATION\\outputs\\model_matrix.csv",
+  "eda_gallery": "F:\\Assignment_DMML\\DMML_REPO\\5_DATA_PREPARATION\\outputs\\eda_gallery.html"
+}

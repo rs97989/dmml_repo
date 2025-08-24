@@ -1,0 +1,12 @@
+{
+  "timestamp": "2025-08-23T18:37:09.256981Z",
+  "status": "success",
+  "runs": [
+    {
+      "source": "kaggle",
+      "dataset": "raghunandan9605/streaming-subscription-churn-dataset",
+      "file": "staging\\kaggle\\StreamingCustomerChurn_KAGGLE.csv",
+      "rows": 125000
+    }
+  ]
+}

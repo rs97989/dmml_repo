@@ -1,0 +1,21 @@
+{
+  "moved_at_utc": "2025-08-23T18:41:11.950526Z",
+  "results": [
+    {
+      "source": "kaggle",
+      "type": "csv",
+      "status": "copied",
+      "from": "F:\\Assignment_DMML\\DMML_REPO\\2_DATA_INGESTION\\staging\\kaggle\\StreamingCustomerChurn_KAGGLE.csv",
+      "to": "F:\\Assignment_DMML\\DMML_REPO\\3_RAW_DATA_STORAGE\\raw_data\\kaggle\\csv\\ingestion_ts=2025-08-23T18-41-11Z\\StreamingCustomerChurn_KAGGLE.csv",
+      "bytes": 14557579
+    },
+    {
+      "source": "source",
+      "type": "csv",
+      "status": "copied",
+      "from": "F:\\Assignment_DMML\\DMML_REPO\\2_DATA_INGESTION\\staging\\source\\StreamingCustomerChurn_SOURCE.csv",
+      "to": "F:\\Assignment_DMML\\DMML_REPO\\3_RAW_DATA_STORAGE\\raw_data\\source\\csv\\ingestion_ts=2025-08-23T18-41-11Z\\StreamingCustomerChurn_SOURCE.csv",
+      "bytes": 1211356
+    }
+  ]
+}

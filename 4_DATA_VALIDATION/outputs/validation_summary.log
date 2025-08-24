@@ -1,0 +1,2 @@
+2025-08-23T18:49:52.949184Z - [{'source': 'kaggle', 'status': 'failed', 'error': "No module named 'xlsxwriter'"}, {'source': 'source', 'status': 'failed', 'error': "No module named 'xlsxwriter'"}]
+2025-08-23T18:53:27.204904Z - [{'source': 'kaggle', 'status': 'failed', 'error': 'cannot convert float NaN to integer'}, {'source': 'source', 'status': 'failed', 'error': 'cannot convert float NaN to integer'}]
